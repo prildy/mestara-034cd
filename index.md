@@ -240,7 +240,6 @@ sections:
     align: center
     background_color: primary
   - title: Mentee Testimonies
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
