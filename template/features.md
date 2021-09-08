@@ -16,7 +16,7 @@ sections:
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
