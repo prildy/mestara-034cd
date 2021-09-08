@@ -244,7 +244,7 @@ sections:
     grid_items:
       - title: Alexa Smith
         subtitle: UI/UX Designer
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
