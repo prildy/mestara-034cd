@@ -141,6 +141,7 @@ sections:
     grid_cols: three
     align: center
     background_color: primary
+    enable_cards: true
   - type: cta_section
     title: Join our movement
     actions:
