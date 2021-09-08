@@ -138,7 +138,7 @@ sections:
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
-    grid_cols: three
+    grid_cols: four
     align: center
     background_color: primary
   - type: cta_section
