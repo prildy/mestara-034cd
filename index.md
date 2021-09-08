@@ -90,6 +90,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
         image: images/3.png
         media_position: right
         media_width: fifty
