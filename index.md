@@ -87,7 +87,7 @@ sections:
           - label: Learn More
             url: /mentorship
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/3.png
