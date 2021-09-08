@@ -107,6 +107,7 @@ sections:
         image: images/3.png
         media_position: right
         media_width: fifty
+        align: right
       - title: Mestara Berdaya
         subtitle: >-
           Our collective efforts investing on women with better education are
