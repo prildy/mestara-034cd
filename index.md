@@ -261,7 +261,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_position: top
-        image_width: fifty
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
         image: images/5 Mentorship.png
