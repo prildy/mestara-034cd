@@ -243,7 +243,7 @@ sections:
     actions: []
     grid_items:
       - title: Alexa Smith
-        subtitle: UX Designer
+        subtitle: UI/UX Designer
         title_align: left
         content: >-
           ## Lorem ipsum
