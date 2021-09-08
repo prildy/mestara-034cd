@@ -239,7 +239,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-  - title: mentee testimonies
+  - title: Mentee Testimonies
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
