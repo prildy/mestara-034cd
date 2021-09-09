@@ -13,6 +13,9 @@ header:
   logo: images/Logo Mestara.png
   has_primary_nav: true
   primary_nav_links:
+    - label: Home
+      url: /
+      style: link
     - label: Mentorship
       url: /mentorship
       style: link
