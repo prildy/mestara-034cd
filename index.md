@@ -242,8 +242,7 @@ sections:
   - title: Mentee Testimonies
     actions: []
     grid_items:
-      - title: Alexa Smith
-        subtitle: UI/UX Designer
+      - subtitle: UI/UX Designer
         title_align: center
         content: >-
           ## Lorem ipsum
