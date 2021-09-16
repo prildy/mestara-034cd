@@ -259,8 +259,7 @@ sections:
         image_has_padding: false
         image: images/hanson-deck.png
         image_alt: Hanson Deck
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
