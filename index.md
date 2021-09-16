@@ -242,8 +242,7 @@ sections:
   - title: Mentee Testimonies
     actions: []
     grid_items:
-      - subtitle: UI/UX Designer
-        title_align: center
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
