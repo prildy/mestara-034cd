@@ -65,7 +65,7 @@ sections:
             new_window: true
         image: images/4a Mestara berdaya.png
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
     feature_padding_vert: large
     align: center
     background_color: secondary
