@@ -277,17 +277,12 @@ sections:
         image_has_padding: false
         image: images/miles-tone.png
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Eleanor Carr,** *CTO, Studio*
         content_align: left
         actions: []
         actions_align: left
