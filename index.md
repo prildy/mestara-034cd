@@ -242,7 +242,7 @@ sections:
   - title: Mentee Testimonies
     actions: []
     grid_items:
-      - title_align: center
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
