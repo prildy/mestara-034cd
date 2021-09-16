@@ -254,7 +254,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_position: left
-        image_width: thirty-three
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
         image: images/hanson-deck.png
