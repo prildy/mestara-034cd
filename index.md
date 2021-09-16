@@ -295,10 +295,11 @@ sections:
         image: images/eleanor-carr.png
       - title_align: left
         content: >
-          *   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-          nisl ligula, cursus id molestie vel, maximus aliquet risus.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
 
-              **Gordon Norman,** *Web Designer, Studio*
+
+          **Gordon Norman,** *Web Designer, Studio*
         content_align: left
         actions: []
         actions_align: left
