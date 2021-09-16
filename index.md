@@ -257,7 +257,7 @@ sections:
         image_width: thirty-three
         image_align: left
         image_has_padding: false
-        image: images/5 Mentorship.png
+        image: images/hanson-deck.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
