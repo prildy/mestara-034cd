@@ -45,7 +45,7 @@ sections:
             new_window: true
         image: images/3.png
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
       - title: Mestara Berdaya
         subtitle: >-
