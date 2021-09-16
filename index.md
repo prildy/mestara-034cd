@@ -309,6 +309,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/gordon-norman.png
     grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: medium
