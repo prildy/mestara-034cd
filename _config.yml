@@ -19,7 +19,7 @@ header:
     - label: Mentorship
       url: /mentorship
       style: link
-      no_follow: true
+      no_follow: false
     - label: Empowerment
       url: /berdaya
       style: link
