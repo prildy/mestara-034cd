@@ -115,7 +115,6 @@ sections:
         image_has_padding: false
         image: images/Mestara 101 Paid.png
       - title: Webinar Series
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           *Selected mentees will take part in 6-week intensive personal
