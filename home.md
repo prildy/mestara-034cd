@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Mestara 101 Paid.png
-      - title: lorem-ipsum
+      - title: Webinar Series
         subtitle: lorem-ipsum
         title_align: left
         content: >-
