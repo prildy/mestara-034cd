@@ -242,7 +242,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Our Impacts So Far
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
