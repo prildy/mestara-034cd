@@ -241,7 +241,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Join Uur Next Program
+  - title: Hear from Our Community
     actions: []
     grid_items:
       - title: lorem-ipsum
