@@ -275,7 +275,6 @@ sections:
         image_has_padding: false
         image: images/Mestara Webinar_1.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
