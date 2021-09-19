@@ -56,7 +56,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Mestara Mentorship.png
-      - title: lorem-ipsum
+      - title: Mestara Convo Club
         subtitle: lorem-ipsum
         title_align: left
         content: >-
