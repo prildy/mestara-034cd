@@ -69,7 +69,7 @@ sections:
           mentees with orientation towards career success.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
