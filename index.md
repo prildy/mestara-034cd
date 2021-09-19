@@ -87,7 +87,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Mestara Webinar
         title_align: left
         content: >
           *Selected mentees will take part in 6-week intensive personal
