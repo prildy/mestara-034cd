@@ -28,7 +28,6 @@ sections:
     actions: []
     grid_items:
       - title: Mestara Mentorship
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
