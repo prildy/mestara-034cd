@@ -39,7 +39,15 @@ sections:
           group work and webinar series, that covers different topics to equip
           mentees with orientation towards career success.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
