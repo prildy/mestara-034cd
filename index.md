@@ -134,6 +134,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Mestara Webinar-6d974a99.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
