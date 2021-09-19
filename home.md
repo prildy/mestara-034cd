@@ -31,16 +31,8 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          ## Mestara Mentorship
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Selected mentees will take part in 6-week intensive personal
+          development program.
         content_align: left
         actions: []
         actions_align: left
