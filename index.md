@@ -44,6 +44,9 @@ sections:
         media_position: right
         media_width: thirty-three
         align: left
+        subtitle: >-
+          Selected mentees will take part in 6-week intensive personal
+          development program.
       - title: Mestara Berdaya
         subtitle: >-
           Our collective efforts investing on women with better education are
