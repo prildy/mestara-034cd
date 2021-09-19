@@ -258,7 +258,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Mestara Webinar-0eef078b.png
+        image: images/Mestara Webinar_1-fd5f46e2.png
       - title_align: left
         content: |
           ## XX
