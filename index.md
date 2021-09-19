@@ -246,9 +246,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## 250
-
-          community
+          ### 250&#xA;community
         content_align: center
         actions: []
         actions_align: left
