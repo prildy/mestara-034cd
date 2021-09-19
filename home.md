@@ -58,17 +58,15 @@ sections:
         image: images/Mestara Mentorship.png
       - title: Mestara Convo Club
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *Selected mentees will take part in 6-week intensive personal
+          development program.*
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Our intensive program will help fresh graduates to achieve their full
+          potential. Our mentorship program consists of individual coaching,
+          group work and webinar series, that covers different topics to equip
+          mentees with orientation towards career success.
         content_align: left
         actions: []
         actions_align: left
