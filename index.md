@@ -242,7 +242,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Blog Post
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
