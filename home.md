@@ -85,7 +85,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Mestara Convo Club.png
-      - title: lorem-ipsum
+      - title: '1:1'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
