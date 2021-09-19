@@ -243,30 +243,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: Our team
-    actions: []
-    grid_items:
-      - title: Galuh Ainur Rohmah
-        title_align: center
-        image: images/Galuh-square.jpeg
-        image_position: top
-        subtitle: Senior Project Manager - TIER Mobility Berlin
-        image_has_padding: false
-      - title: Steffi Melinda
-        title_align: center
-        image: images/DSCF6268.jpg
-        image_position: top
-        subtitle: Lead Data Science & Analytics - Bonial International
-      - title: Galuh Mauliditya
-        subtitle: Data Engineer - PT Pertamina Hulu Mahakam
-        title_align: center
-        image: images/Galuh_Photo 2021.JPG
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: primary
-    enable_cards: false
-  - type: grid_section
     title: Our next agenda
     grid_items:
       - content: >
