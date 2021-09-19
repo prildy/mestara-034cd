@@ -127,7 +127,7 @@ sections:
           mentees with orientation towards career success.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: secondary
             has_icon: false
