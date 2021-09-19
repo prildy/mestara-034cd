@@ -248,7 +248,7 @@ sections:
         content: |
           ## 250
 
-          ### community
+          ### girls have joined Mestara mentorship
         content_align: center
         actions: []
         actions_align: left
