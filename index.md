@@ -324,7 +324,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     subtitle: About Mestara
-  - title: lorem-ipsum
+  - title: Blog Post
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
