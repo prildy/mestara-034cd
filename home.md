@@ -179,59 +179,6 @@ sections:
     align: center
     background_color: primary
     enable_cards: false
-  - type: cta_section
-    title: Join our movement
-    actions:
-      - label: Donate
-        url: /donate
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: Join as Mentor
-        url: /mentorship
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: Join as Mentee
-        url: /mentorship
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - label: Spread the word
-        url: 'https://www.instagram.com/mestaracom/'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-      - label: Partner with us
-        url: /general-enquiries
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: grid_section
     title: Our next agenda
     grid_items:
