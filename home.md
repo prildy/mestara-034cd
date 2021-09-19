@@ -276,51 +276,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-  - type: grid_section
-    title: Our why
-    align: center
-    grid_items:
-      - image_align: center
-        content: >
-          > *At **51undefined) and low relative to countries at a comparable
-          stage of development.*
-
-
-          <sub>Source: Women Economic Participation in Indonesia, Monash
-          University, June 2017</sub>
-        title_align: left
-        content_align: left
-      - image_align: center
-        content: >
-          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married
-          before reaching age 18** which potentially make them to be more
-          vulnerable to violence and poverty*
-
-
-          <sub>Source: Indonesia Child Marriage Report, UNICEF, 2020</sub>
-        title_align: left
-        content_align: left
-      - image_align: center
-        content: >
-          > *Indonesian **women earn 23% less** than men. Although more women
-          workers have a college or university degree compared to male workers,
-          higher education can’t narrow the gender pay gap.*
-
-
-          <sub>Source: Labour Force Survey, BPS, February 2020</sub>
-        title_align: left
-        content_align: left
-      - image_align: center
-        content: |
-          > *Only **52undefined work in roles that do not require a degree.*
-
-          <sub>Source: The Graduate Employment Gap, CIPD, 2017</sub>
-        title_align: left
-        content_align: left
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    subtitle: About Mestara
   - title: Blog Post
     subtitle: lorem-ipsum
     actions: []
