@@ -105,6 +105,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Mestara 101 Paid-480d9317.png
       - title: Mestara Webinar
         title_align: left
         content: >
