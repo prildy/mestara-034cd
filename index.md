@@ -157,53 +157,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: features_section
-    subtitle: How we do it
-    features:
-      - title: Mestara Mentorship
-        content: >-
-          Our intensive program will help fresh graduates to achieve their full
-          potential. Our mentorship program consists of individual coaching,
-          group work and webinar series, that covers different topics to equip
-          mentees with orientation towards career success.
-        actions:
-          - label: Learn More
-            url: /mentorship
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        image: images/3.png
-        media_position: right
-        media_width: thirty-three
-        align: left
-        subtitle: >-
-          Selected mentees will take part in 6-week intensive personal
-          development program.
-      - title: Mestara Berdaya
-        subtitle: >-
-          Our collective efforts investing on women with better education are
-          used to empower other women in need.
-        content: >-
-          We provide 1-month practical skill training to poor & marginalized
-          women to create a better life for themselves and their family by
-          empowering & equipping them with relevant skills.
-        actions:
-          - label: Learn More
-            url: /berdaya
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        image: images/4a Mestara berdaya.png
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-    title: Our programs
   - title: Mentee Testimonies
     actions: []
     grid_items:
