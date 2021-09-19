@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Learn More
             url: '#'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
