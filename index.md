@@ -264,7 +264,7 @@ sections:
           ## XX
 
           bla bla
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
