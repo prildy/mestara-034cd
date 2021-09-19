@@ -28,9 +28,6 @@ sections:
     actions: []
     grid_items:
       - title: Mestara Mentorship
-        subtitle: >-
-          Selected mentees will take part in 6-week intensive personal
-          development program.
         title_align: left
         content: >
           Our intensive program will help fresh graduates to achieve their full
