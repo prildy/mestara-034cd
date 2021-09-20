@@ -79,14 +79,9 @@ sections:
       - title: Mestara One-on-Ones
         title_align: left
         content: >
-          *Selected mentees will take part in 6-week intensive personal
-          development program.*
-
-
-          Our intensive program will help fresh graduates to achieve their full
-          potential. Our mentorship program consists of individual coaching,
-          group work and webinar series, that covers different topics to equip
-          mentees with orientation towards career success.
+          Our 60 minutes long coaching program for final year female students or
+          recent graduates that will help to gain industry insights and provide
+          career guidance from Indonesian progressional women.
         content_align: left
         actions:
           - label: Learn More
