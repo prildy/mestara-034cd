@@ -389,7 +389,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: lorem-ipsum
+  - title: Follow us on Instagram
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
