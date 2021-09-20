@@ -104,7 +104,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          Buy only 1 webinar
+          Purchase single webinar
         content_align: left
         actions: []
         actions_align: left
