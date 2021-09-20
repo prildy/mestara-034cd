@@ -6,7 +6,15 @@ sections:
       Our 60 minutes long coaching program for final year female students or
       recent graduates that will help to gain industry insights and provide
       career guidance from Indonesian progressional women.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: lorem-ipsum
     media_position: right
     media_width: fifty
