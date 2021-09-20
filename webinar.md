@@ -121,7 +121,7 @@ sections:
         image_align: left
         image_has_padding: false
         subtitle: Single Webinar
-      - subtitle: lorem-ipsum
+      - subtitle: Bundle Webinar
         title_align: left
         content: >-
           ## Lorem ipsum
