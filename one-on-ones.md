@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: one-on-ones
 sections:
   - title: Mestara One-on-Ones
     content: >
