@@ -100,8 +100,7 @@ sections:
   - title: Single Webinar
     actions: []
     grid_items:
-      - title: 99K
-        title_align: left
+      - title_align: left
         content: |
           # **IDR 89K**
         content_align: left
