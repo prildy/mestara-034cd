@@ -30,7 +30,6 @@ sections:
     type: hero_section
     image: images/Mestara 101 Paid.png
   - title: What We Offer
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Career Clarity
