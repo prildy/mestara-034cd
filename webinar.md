@@ -1,7 +1,7 @@
 ---
 title: Webinar
 sections:
-  - title: lorem-ipsum
+  - title: Mestara Webinar
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
