@@ -200,7 +200,7 @@ sections:
   - title: Webinar Speakers
     actions: []
     grid_items:
-      - title: Mentor 1
+      - title: Speaker 1
         title_align: left
         content_align: left
         actions: []
