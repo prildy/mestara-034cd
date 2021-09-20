@@ -13,7 +13,6 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_image: images/Indah_1.png
 ---
 In this zoom webinar series, we will talk about:
 
