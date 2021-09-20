@@ -23,7 +23,7 @@ sections:
     image: images/Mestara Webinar.png
   - title: Upcoming Webinar
     features:
-      - title: Preparing for Life After Graduation
+      - title: Preparing for Life After University & Overcoming Post-Grad Blues
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
