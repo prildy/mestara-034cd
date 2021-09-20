@@ -198,7 +198,6 @@ sections:
     has_border: false
     background_color: primary
   - title: Mentors and Speakers
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
