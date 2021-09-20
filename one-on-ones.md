@@ -52,7 +52,7 @@ sections:
         subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
-          *   "gak tau kerja dimana"
+          *   gak tau kerja dimana
 
           *   validasi feeling dari mereka
 
