@@ -66,7 +66,7 @@ sections:
       - title: >-
           The Ultimate Dilemma: Pursuing Master's Degree of Finding Work
           Experiences?
-        subtitle: lorem-ipsum
+        subtitle: 'Saturday, 25 Sep 2021'
         content: >-
           ## Lorem ipsum
 
