@@ -14,9 +14,10 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+In this zoom webinar series, we will talk about:
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   Post-grad blues (it's too real, and why is nobody talking about it?)
 
-- Lorem ipsum
-- dolor sit amet
+*   How to pursue your passion if you don't know what it is? Or if you have too many? 
+
+*   Which master degree should you take? Now or later? Is it actually necessary for you?
