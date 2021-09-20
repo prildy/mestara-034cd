@@ -85,7 +85,8 @@
 						{% endif %}
 					{% endif %}
 					{% assign subtitle_is_not_empty = item.subtitle | is_not_empty %}
-					{% if subtitle_is_not_empty %}
+                    {% if subtitle_is_not_empty %}
+                    
 					<p class="item__subtitle{% if title_align_x == 'center' %} text-center{% endif %}{% if title_align_x == 'right' %} text-right{% endif %}">
 						{{ item.subtitle }}
 					</p>
