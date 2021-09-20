@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: Meet Our Spearkers
+          - label: Meet Our Speakers
             url: '#'
             style: link
             has_icon: false
