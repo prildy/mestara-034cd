@@ -17,7 +17,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: secondary
-    title: We are Mestara
+    title: About Mestara
     background_image_size: auto
     has_border: false
     background_image_position: center bottom
