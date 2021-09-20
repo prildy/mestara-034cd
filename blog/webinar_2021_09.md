@@ -22,4 +22,5 @@ In this zoom webinar series, we will talk about:
 
 *   Which master degree should you take? Now or later? Is it actually necessary for you?
 
-![](images/Indah\_1.png)
+![](images/WhatsApp%20Image%202021-06-01%20at%2023.09.22%20\(1\).jpeg)
+
