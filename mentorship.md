@@ -200,7 +200,7 @@ sections:
   - title: Mentors and Speakers
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Mentor 1
         subtitle: lorem-ipsum
         title_align: left
         content: >-
