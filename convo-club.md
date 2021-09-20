@@ -7,7 +7,15 @@ sections:
       improve English speaking and listening skills and boost confidence in a
       professional setting. A great place to practice English conversation skill
       and be more fluent!
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: lorem-ipsum
     media_position: left
     media_width: fifty
