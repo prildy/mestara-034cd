@@ -2,17 +2,10 @@
 title: lorem-ipsum
 sections:
   - title: Mestara One-on-Ones
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Our 60 minutes long coaching program for final year female students or
+      recent graduates that will help to gain industry insights and provide
+      career guidance from Indonesian progressional women.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
