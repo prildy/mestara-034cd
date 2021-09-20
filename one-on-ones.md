@@ -29,7 +29,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara 101 Paid.png
-  - title: What We Offer
+  - title: How We Could Help You
     actions: []
     grid_items:
       - title: Career Clarity
