@@ -103,14 +103,9 @@ sections:
       - title: Mestara Webinar
         title_align: left
         content: >
-          *Selected mentees will take part in 6-week intensive personal
-          development program.*
-
-
-          Our intensive program will help fresh graduates to achieve their full
-          potential. Our mentorship program consists of individual coaching,
-          group work and webinar series, that covers different topics to equip
-          mentees with orientation towards career success.
+          Our monthly webinar program that will help female students to have a
+          stand out job application and get hired in the competitive national
+          and even global job market.
         content_align: left
         actions:
           - label: Learn More
