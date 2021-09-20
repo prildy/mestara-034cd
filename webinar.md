@@ -127,7 +127,7 @@ sections:
           # **IDR 199K**
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Register Now
             url: '#'
             style: link
             has_icon: false
