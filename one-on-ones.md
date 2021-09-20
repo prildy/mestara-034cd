@@ -79,17 +79,24 @@ sections:
       - title: Job Application
         subtitle: lorem-ipsum mari daftar
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   linkedin
 
+          <!---->
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   mock interview
 
+          <!---->
 
-          - Lorem ipsum
+          *   review CV
 
-          - dolor sit amet
+          <!---->
+
+          *   review application letter
+
+          <!---->
+
+          *   offer group FGD
         content_align: left
         actions: []
         actions_align: left
