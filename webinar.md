@@ -23,7 +23,7 @@ sections:
     image: images/Mestara Webinar.png
   - title: Upcoming Webinar
     features:
-      - title: lorem-ipsum
+      - title: Preparing for Life After Graduation
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
