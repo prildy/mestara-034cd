@@ -25,17 +25,18 @@ sections:
     features:
       - title: Preparing for Life After University & Overcoming Post-Grad Blues
         subtitle: 'Saturday, 18 Sep 2020'
-        content: >-
-          ## Lorem ipsum
+        content: >
+          During this webinar we will discuss the following:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   What are the common symptoms of post-grad blues and how to
+          overcome them
 
 
-          - Lorem ipsum
+          *   How to handle the high expectations of university graduates
 
-          - dolor sit amet
+
+          *   How to mentally prepare for life after university
         actions: []
         image_alt: lorem-ipsum
         media_position: top
