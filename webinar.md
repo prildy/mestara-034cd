@@ -82,7 +82,7 @@ sections:
           *   Factors to consider when choosing university and master course
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: images/12.jpg
