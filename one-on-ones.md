@@ -48,7 +48,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Career Clarity
+      - title: Carreer Clarity
         subtitle: lorem-ipsum
         title_align: left
         content: >-
