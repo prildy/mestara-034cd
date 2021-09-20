@@ -37,6 +37,15 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Webinar
         subtitle: >-
           Every week mentees will attend a webinar with women who work in the
