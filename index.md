@@ -54,14 +54,10 @@ sections:
       - title: Mestara Convo Club
         title_align: left
         content: >
-          *Selected mentees will take part in 6-week intensive personal
-          development program.*
-
-
-          Our intensive program will help fresh graduates to achieve their full
-          potential. Our mentorship program consists of individual coaching,
-          group work and webinar series, that covers different topics to equip
-          mentees with orientation towards career success.
+          Our 8-session long program that will help Indonesian women or girls to
+          improve English speaking and listening skills and boost confidence in
+          a professional setting. A great place to practice English conversation
+          skill and be more fluent!
         content_align: left
         actions:
           - label: Learn More
