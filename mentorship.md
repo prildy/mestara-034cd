@@ -201,7 +201,6 @@ sections:
     actions: []
     grid_items:
       - title: Mentor 1
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
