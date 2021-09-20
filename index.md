@@ -303,6 +303,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - title: Our Social Media
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - title: Hear from Our Community
     actions: []
     grid_items:
@@ -389,21 +404,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Our Social Media
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 seo:
   title: Mestara
   description: Women empowerment program and mentorship program
