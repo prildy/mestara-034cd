@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Funding Your Master's Degree
 subtitle: lorem-ipsum
 date: '2021-09-20'
 categories: []
