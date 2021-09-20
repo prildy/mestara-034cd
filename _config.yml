@@ -31,7 +31,7 @@ header:
     - label: Empowerment
       url: /berdaya
       style: link
-    - label: lorem-ipsum
+    - label: One-on-Ones
       url: '#'
       style: link
       has_icon: false
