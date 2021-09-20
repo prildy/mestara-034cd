@@ -54,7 +54,13 @@ sections:
         content: |
           *   ga tau kerja drmn
 
-          *   blah
+          *   validasi feeling dari mereka
+
+          *   bingung setelah kuliah where to start
+
+          *   mending S2 atau gak
+
+          *   cari passion
         content_align: left
         actions: []
         actions_align: left
