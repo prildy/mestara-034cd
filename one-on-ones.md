@@ -7,7 +7,7 @@ sections:
       recent graduates that will help to gain industry insights and provide
       career guidance from Indonesian progressional women.
     actions:
-      - label: lorem-ipsum
+      - label: Register Now
         url: '#'
         style: link
         has_icon: false
