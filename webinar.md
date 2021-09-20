@@ -45,17 +45,18 @@ sections:
         image: images/3.jpg
       - title: Choosing a career for passionless & multi-passionate graduates
         subtitle: 'Sunday, 19 Sep 2021'
-        content: >-
-          ## Lorem ipsum
+        content: >
+          During this webinar we will discuss:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Career vs Passion: how to deal with it?
 
 
-          - Lorem ipsum
+          *   How to pursue your passion when you don't know what it is?
 
-          - dolor sit amet
+
+          *   Drowning in career options: how to focus when you're
+          multi-passionate?
         actions: []
         image_alt: lorem-ipsum
         media_position: top
