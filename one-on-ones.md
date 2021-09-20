@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Mestara One-on-Ones
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
