@@ -63,7 +63,9 @@ sections:
         media_width: fifty
         align: left
         image: images/10.jpg
-      - title: lorem-ipsum
+      - title: >-
+          The Ultimate Dilemma: Pursuing Master's Degree of Finding Work
+          Experiences?
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
