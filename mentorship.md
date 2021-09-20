@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: Meet Our Webinar Spearkers
             url: '#'
             style: link
             has_icon: false
