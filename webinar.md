@@ -174,8 +174,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/brandon-guidelines.png
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: "Testimoni kusuka\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
         content_align: left
         actions: []
