@@ -2,7 +2,6 @@
 title: Our Programme
 sections:
   - title: Our Programme
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
