@@ -54,7 +54,7 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
-    - label: Contact us
+    - label: About Us
       style: link
       url: /general-enquiries
     - label: Donate
