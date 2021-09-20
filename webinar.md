@@ -67,17 +67,19 @@ sections:
           The Ultimate Dilemma: Pursuing Master's Degree of Finding Work
           Experiences?
         subtitle: 'Saturday, 25 Sep 2021'
-        content: >-
-          ## Lorem ipsum
+        content: >
+          During this webinar we will discuss:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Key reasons in decision-making between pursuing master’s degree &
+          finding work experiences
 
 
-          - Lorem ipsum
+          *   When is the perfect timing to start considering \&applying for
+          master?
 
-          - dolor sit amet
+
+          *   Factors to consider when choosing university and master course
         actions: []
         image_alt: lorem-ipsum
         media_position: top
