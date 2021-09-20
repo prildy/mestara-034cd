@@ -390,7 +390,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Follow us on Instagram
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
