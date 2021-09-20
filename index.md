@@ -29,14 +29,10 @@ sections:
       - title: Mestara Mentorship
         title_align: left
         content: >
-          *Selected mentees will take part in 6-week intensive personal
-          development program.*
-
-
-          Our intensive program will help fresh graduates to achieve their full
-          potential. Our mentorship program consists of individual coaching,
-          group work and webinar series, that covers different topics to equip
-          mentees with orientation towards career success.
+          Our mission is to build self-confidence of recent female graduates in
+          6-week mentoring program through life and career plans, professional
+          networking, career options explorations, and internship program with
+          our partner companies.
         content_align: left
         actions:
           - label: Learn More
