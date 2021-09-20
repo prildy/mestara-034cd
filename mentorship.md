@@ -8,7 +8,7 @@ sections:
       potential.
     background_color: primary
     actions:
-      - label: lorem-ipsum
+      - label: Join as Mentee
         url: '#'
         style: link
         has_icon: false
