@@ -19,8 +19,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara Convo Club-427328cc.png
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
