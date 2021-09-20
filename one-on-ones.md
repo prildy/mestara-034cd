@@ -75,21 +75,9 @@ sections:
         title_align: left
         content: |
           *   linkedin
-
-          <!---->
-
           *   mock interview
-
-          <!---->
-
           *   review CV
-
-          <!---->
-
           *   review application letter
-
-          <!---->
-
           *   offer group FGD
         content_align: left
         actions: []
