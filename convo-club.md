@@ -8,7 +8,7 @@ sections:
       professional setting. A great place to practice English conversation skill
       and be more fluent!
     actions:
-      - label: lorem-ipsum
+      - label: Join Now
         url: '#'
         style: link
         has_icon: false
