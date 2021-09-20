@@ -22,3 +22,5 @@ In this zoom webinar series, we will talk about:
 *   How to pursue your passion if you don't know what it is? Or if you have too many? 
 
 *   Which master degree should you take? Now or later? Is it actually necessary for you?
+
+![](images/Indah\_1.png)
