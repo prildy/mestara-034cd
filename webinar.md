@@ -2,7 +2,6 @@
 title: Webinar
 sections:
   - title: Mestara Webinar
-    subtitle: lorem-ipsum
     content: >
       Our monthly webinar program that will help female students to have a stand
       out job application and get hired in the competitive national and even
