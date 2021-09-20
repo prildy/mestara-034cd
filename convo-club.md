@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mestara Convo Club
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
