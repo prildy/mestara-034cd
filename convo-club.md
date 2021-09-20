@@ -1,7 +1,7 @@
 ---
 title: Mestara Convo Club
 sections:
-  - title: lorem-ipsum
+  - title: Mestara Convo-Club
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
