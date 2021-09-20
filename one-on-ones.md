@@ -51,17 +51,16 @@ sections:
       - title: Career Clarity
         subtitle: lorem-ipsum mari daftar
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   "gak tau kerja dimana"
 
+          *   validasi feeling dari mereka
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   bingung where to start setelah kuliah
 
+          *   mending S2 ato gak
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   cari passion atau gak passion sm bidang sendiri
         content_align: left
         actions: []
         actions_align: left
