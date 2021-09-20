@@ -28,9 +28,6 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
-    - label: Empowerment
-      url: /berdaya
-      style: link
     - label: One-on-Ones
       url: '#'
       style: link
