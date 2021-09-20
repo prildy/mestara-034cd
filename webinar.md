@@ -99,7 +99,7 @@ sections:
     type: features_section
   - title: Single Webinar
     actions:
-      - label: lorem-ipsum
+      - label: Register Now
         url: '#'
         style: link
         has_icon: false
