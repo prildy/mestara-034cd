@@ -148,50 +148,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Our next agenda
-    grid_items:
-      - content: >
-          Combination of weekly webinar and 1:1 coaching sessions.
-
-
-          *   **July 10th 2021 - August 7th 2021**
-
-          *   Every Saturday 1 PM - 4 PM WIB, except July 11th for 2nd webinar
-
-          *   1:1 coaching session schedule will be discussed with your mentor.
-
-          *   All events are held **online**, but we promise to make it
-          interactive
-
-
-          **Last registration date: June 30th 2021**
-        image: images/5 Mentorship.png
-        image_position: left
-        image_width: twenty-five
-        title: Mentorship
-      - content: >
-          *   Nr. of participants: 5 girls
-
-          *   Age of participants: 14+
-
-          *   Project time: **September 2021**
-
-          *   Project duration: 1 month
-
-          *   Program: haircut training, personal finance workshop
-
-          *   Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec.
-          Kedungadem, Kabupaten Bojonegoro, Jawa Timur
-        image: images/6 Mestara berdaya.png
-        image_position: left
-        image_width: twenty-five
-        title: Mestara Berdaya
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: primary
-  - type: grid_section
     title: Our why
     align: center
     grid_items:
