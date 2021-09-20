@@ -3,17 +3,10 @@ title: Webinar
 sections:
   - title: Mestara Webinar
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Our monthly webinar program that will help female students to have a stand
+      out job application and get hired in the competitive national and even
+      global job market
     actions: []
     image_alt: lorem-ipsum
     media_position: top
