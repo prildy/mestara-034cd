@@ -109,17 +109,10 @@ sections:
       - title: Master
         subtitle: lorem-ipsum mari daftar
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   choosing jurusan dan uni dan beasiswa
+          *   preparation, S2, checklist
+          *   beasiswa interview mock
         content_align: left
         actions: []
         actions_align: left
