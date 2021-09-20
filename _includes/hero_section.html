@@ -76,7 +76,8 @@
 				{% assign actions_is_not_empty = section.actions | is_not_empty %}
 				{% if actions_is_not_empty %}
 				<div class="hero__actions btn-group{% if align_x == 'center' %} justify-center{% endif %}{% if align_x == 'right' %} justify-end{% endif %}">
-					
+				<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+        <div class="elfsight-app-bc5a362c-83a3-46c3-9f5b-73f2f221ca06"></div> 	
 					{% include section_actions.html actions=section.actions %}
 				</div>
 				{% endif %}
