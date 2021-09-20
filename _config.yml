@@ -20,9 +20,6 @@ header:
       url: /mentorship
       style: link
       no_follow: false
-    - label: Empowerment
-      url: /berdaya
-      style: link
     - label: English Convo Club
       url: '#'
       style: link
@@ -31,6 +28,9 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
+    - label: Empowerment
+      url: /berdaya
+      style: link
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact us
