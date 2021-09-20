@@ -197,7 +197,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: Mentors and Speakers
+  - title: Webinar Speakers
     actions: []
     grid_items:
       - title: Mentor 1
