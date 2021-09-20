@@ -197,7 +197,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: 'Who is Our '
+  - title: Mentors and Speakers
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
