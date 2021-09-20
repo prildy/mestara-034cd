@@ -44,7 +44,7 @@ sections:
         align: left
         image: images/3.jpg
       - title: Choosing a career for passionless & multi-passionate graduates
-        subtitle: lorem-ipsum
+        subtitle: 'Sunday, 19 Sep 2021'
         content: >-
           ## Lorem ipsum
 
