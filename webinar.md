@@ -24,7 +24,7 @@ sections:
   - title: Upcoming Webinar
     features:
       - title: Preparing for Life After University & Overcoming Post-Grad Blues
-        subtitle: lorem-ipsum
+        subtitle: 'Saturday, 18 Sep 2020'
         content: >-
           ## Lorem ipsum
 
