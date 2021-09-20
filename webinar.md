@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         align: left
         image: images/3.jpg
-      - title: Choosing a career for
+      - title: Choosing a career for passionless
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
