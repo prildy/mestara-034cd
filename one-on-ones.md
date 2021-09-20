@@ -29,7 +29,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara 101 Paid.png
-  - title: lorem-ipsum
+  - title: What We Offer
     subtitle: lorem-ipsum
     actions: []
     grid_items:
