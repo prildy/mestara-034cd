@@ -114,15 +114,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Join as Mentee
-        url: /mentorship
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
       - label: Spread the word
         url: 'https://www.instagram.com/mestaracom/'
         style: secondary
