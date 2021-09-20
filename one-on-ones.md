@@ -37,13 +37,7 @@ sections:
         title_align: left
         content: |
           *   Productivity
-
-          <!---->
-
           *   Boost your self-confident
-
-          <!---->
-
           *   How to communicate professionally
         content_align: left
         actions: []
