@@ -18,7 +18,7 @@ sections:
         no_follow: false
       - label: Join as Mentor
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
