@@ -7,6 +7,15 @@ sections:
       Our 6-week intensive program helps fresh graduates to achieve their full
       potential.
     background_color: primary
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
   - type: features_section
     features:
       - title: Individual Coaching
