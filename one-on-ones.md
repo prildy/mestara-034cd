@@ -32,7 +32,7 @@ sections:
   - title: Expertise and Experience
     actions: []
     grid_items:
-      - title: Career Clarity
+      - title: Soft Skill
         subtitle: lorem ipsum mari daftar
         title_align: left
         content: |
