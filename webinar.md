@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Webinar
 sections: []
 seo:
   title: ''
