@@ -2,17 +2,11 @@
 title: Mestara Convo Club
 sections:
   - title: Mestara Convo-Club
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Our 8-session long program that will help Indonesian women or girls to
+      improve English speaking and listening skills and boost confidence in a
+      professional setting. A great place to practice English conversation skill
+      and be more fluent!
     actions: []
     image_alt: lorem-ipsum
     media_position: top
