@@ -64,8 +64,7 @@
 				{% if title_is_not_empty %}
                 <h1 class="hero__title">{{ section.title }}</h1>
                 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-                <div class="elfsight-app-bc5a362c-83a3-46c3-9f5b-73f2f221ca06"></div> 
-				{% endif %}
+                {% endif %}
 				{% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
 				{% if subtitle_is_not_empty %}
 				<p class="hero__subtitle">{{ section.subtitle }}</p>
