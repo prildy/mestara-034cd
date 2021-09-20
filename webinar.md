@@ -103,7 +103,7 @@ sections:
       - title: 99K
         title_align: left
         content: |
-          Purchase single webinar
+          # **IDR 89K**
         content_align: left
         actions: []
         actions_align: left
