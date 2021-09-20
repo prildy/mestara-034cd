@@ -52,15 +52,9 @@ sections:
         subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
-          *   gak tau kerja dimana
+          *   ga tau kerja drmn
 
-          *   validasi feeling dari mereka
-
-          *   bingung where to start setelah kuliah
-
-          *   mending S2 ato gak
-
-          *   cari passion atau gak passion sm bidang sendiri
+          *   blah
         content_align: left
         actions: []
         actions_align: left
