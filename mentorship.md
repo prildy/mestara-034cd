@@ -16,7 +16,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Join as Mentor
         url: '#'
         style: link
         has_icon: false
