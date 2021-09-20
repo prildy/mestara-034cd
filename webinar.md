@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         align: left
         image: images/3.jpg
-      - title: lorem-ipsum
+      - title: Choosing a career for
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
