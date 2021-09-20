@@ -101,7 +101,6 @@ sections:
     actions: []
     grid_items:
       - title: 99K
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           Purchase single webinar
