@@ -71,6 +71,7 @@ sections:
           sure that everyone gets equal attention and good quality of coaching.
         media_position: center
         media_width: fifty
+    title: Our Structure
   - type: grid_section
     title: Agenda
     subtitle: 'Next period: July 10th - August 7th 2021'
