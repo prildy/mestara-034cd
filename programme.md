@@ -7,4 +7,4 @@ seo:
   extra: []
 layout: page
 ---
-*
+Lorem Ipsum
