@@ -56,6 +56,15 @@ sections:
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - content: >-
           With limited number of mentors so far, we will select 21 mentees from
           different cities, universities and backgrounds. This way, we can make
