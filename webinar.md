@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara Webinar.png
-  - title: lorem-ipsum
+  - title: Upcoming Webinar
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
