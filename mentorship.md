@@ -197,7 +197,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: lorem-ipsum
+  - title: Who is Our
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
