@@ -34,7 +34,7 @@ sections:
     actions: []
     grid_items:
       - title: Career Clarity
-        subtitle: lorem-ipsum
+        subtitle: lorem ipsum mari daftar
         title_align: left
         content: |
           *   Productivity
