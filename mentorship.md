@@ -71,7 +71,7 @@ sections:
           sure that everyone gets equal attention and good quality of coaching.
         media_position: center
         media_width: fifty
-    title: How We Do It
+    title: Programme Structure
   - title: Mentees Testimonials
     actions: []
     grid_items:
