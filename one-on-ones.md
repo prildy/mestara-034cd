@@ -29,7 +29,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara 101 Paid.png
-  - title: lorem-ipsum
+  - title: Why Mestara One-on-Ones?
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
