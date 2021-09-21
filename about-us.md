@@ -156,7 +156,7 @@ sections:
         label: Subject
         default_value: lorem-ipsum
         options:
-          - Mentorship
+          - Mestara Mentorship
           - English Convo Club
         is_required: true
       - input_type: text
