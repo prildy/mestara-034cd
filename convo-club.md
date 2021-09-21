@@ -40,7 +40,7 @@ sections:
         align: left
       - title: Only 200K per person
         actions:
-          - label: lorem-ipsum
+          - label: Join Now
             url: '#'
             style: link
             has_icon: false
