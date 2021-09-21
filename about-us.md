@@ -159,7 +159,7 @@ sections:
           - Mestara Mentorship
           - English Convo Club
           - One-on-Ones
-          - lorem-ipsum
+          - Webinar Series
         is_required: true
       - input_type: text
         name: Message
