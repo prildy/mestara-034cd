@@ -156,7 +156,7 @@ sections:
         label: Subject
         default_value: General Enquiries
         options:
-          - Mestara Mentorship
+          - Mestara Programme
           - English Convo Club
           - One-on-Ones
           - Webinar Series
