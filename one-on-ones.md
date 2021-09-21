@@ -148,7 +148,7 @@ sections:
     type: grid_section
   - title: Package
     actions:
-      - label: lorem-ipsum
+      - label: Register Here
         url: '#'
         style: link
         has_icon: false
