@@ -154,7 +154,7 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        default_value: lorem-ipsum
+        default_value: General Enquiries
         options:
           - Mestara Mentorship
           - English Convo Club
