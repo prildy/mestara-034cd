@@ -61,7 +61,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: '#'
+            url: /convo-club
             style: secondary
             has_icon: false
             icon: arrow-left
