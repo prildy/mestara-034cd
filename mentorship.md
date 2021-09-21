@@ -24,6 +24,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+    image: images/5 Mentorship.png
   - type: features_section
     features:
       - title: Individual Coaching
