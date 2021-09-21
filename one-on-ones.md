@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: false
         subtitle: 1 session x 60 mins
-      - subtitle: lorem-ipsum
+      - subtitle: 2 session x 60 mins
         title_align: left
         content: >-
           ## Lorem ipsum
