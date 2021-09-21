@@ -56,7 +56,7 @@ header:
       no_follow: false
     - label: About Us
       style: link
-      url: /general-enquiries
+      url: /about-us
     - label: Donate
       style: secondary
       url: /donate
