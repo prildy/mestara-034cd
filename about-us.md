@@ -161,7 +161,7 @@ sections:
           - Business Partnership
           - General Enquiries
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: Message
         label: Message
         default_value: lorem-ipsum
