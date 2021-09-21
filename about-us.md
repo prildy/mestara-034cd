@@ -160,6 +160,7 @@ sections:
           - English Convo Club
           - One-on-Ones
           - Webinar Series
+          - lorem-ipsum
         is_required: true
       - input_type: text
         name: Message
