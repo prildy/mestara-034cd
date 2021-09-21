@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Our 6-week intensive program helps fresh graduates to achieve their full
       potential.
-    background_color: none
+    background_color: secondary
     actions:
       - label: Join as Mentee
         url: '#'
