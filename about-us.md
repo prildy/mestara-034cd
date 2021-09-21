@@ -131,7 +131,7 @@ sections:
   - title: Get in touch
     title_align: center
     content_align: left
-    form_position: right
+    form_position: left
     form_width: fifty
     form_layout: stacked
     enable_card: true
