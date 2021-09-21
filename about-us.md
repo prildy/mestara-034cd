@@ -155,7 +155,8 @@ sections:
         name: Subject
         label: Subject
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
       - input_type: text
         name: Message
