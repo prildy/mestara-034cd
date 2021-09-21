@@ -158,7 +158,6 @@ sections:
         options:
           - Mestara Programme
           - English Convo Club
-          - One-on-Ones
           - Webinar Series
           - Donation
           - Business Partnership
