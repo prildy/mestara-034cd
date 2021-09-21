@@ -128,8 +128,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: Get in touch
-    title_align: center
+  - title_align: center
     content_align: left
     form_position: right
     form_width: fifty
