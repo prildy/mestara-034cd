@@ -158,6 +158,7 @@ sections:
         options:
           - Mestara Mentorship
           - English Convo Club
+          - lorem-ipsum
         is_required: true
       - input_type: text
         name: Message
