@@ -36,7 +36,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: '#'
+            url: /mentorship
             style: secondary
             has_icon: false
             icon: arrow-left
