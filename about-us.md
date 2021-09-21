@@ -158,7 +158,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: lorem-ipsum
+        name: Message
         label: Message
         default_value: lorem-ipsum
         options: []
