@@ -146,7 +146,6 @@ sections:
       - input_type: email
         name: Email
         label: Email
-        default_value: lorem-ipsum
         options:
           - lorem-ipsum
         is_required: true
