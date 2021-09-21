@@ -158,7 +158,6 @@ sections:
         options:
           - Mestara Programme
           - Mestara Berdaya
-          - Webinar Series
           - Donation
           - Business Partnership
           - General Enquiries
