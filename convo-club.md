@@ -32,8 +32,7 @@ sections:
     image: images/Mestara Convo Club-6815cf39.png
   - title: Benefits of Our Program
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
