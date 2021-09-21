@@ -31,17 +31,16 @@ sections:
     image: images/Mestara 101 Paid.png
   - title: Why Mestara One-on-Ones?
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: |
+          *   sini sini sini
 
+          *   karena a b c d
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   karena e f g h
 
+          *   dst
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   dsb
         actions: []
         image_alt: lorem-ipsum
         media_position: top
