@@ -161,7 +161,7 @@ sections:
           - One-on-Ones
           - Webinar Series
           - Donation
-          - lorem-ipsum
+          - Business Partnership
         is_required: true
       - input_type: text
         name: Message
