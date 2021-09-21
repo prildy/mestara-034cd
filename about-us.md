@@ -154,7 +154,6 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        default_value: General Enquiries
         options:
           - Mestara Programme
           - Mestara Berdaya
