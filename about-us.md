@@ -162,7 +162,7 @@ sections:
           - Webinar Series
           - Donation
           - Business Partnership
-          - lorem-ipsum
+          - General Enquiries
         is_required: true
       - input_type: text
         name: Message
