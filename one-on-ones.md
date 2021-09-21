@@ -30,7 +30,6 @@ sections:
     type: hero_section
     image: images/Mestara 101 Paid.png
   - title: Why Mestara One-on-Ones?
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
