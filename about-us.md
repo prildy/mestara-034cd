@@ -129,7 +129,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Get in touch
-    title_align: left
+    title_align: right
     content_align: left
     form_position: right
     form_width: fifty
