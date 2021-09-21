@@ -128,7 +128,9 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: lorem-ipsum
+  - title: >-
+      Get in touch Have a question? Send us a note using the form and we will be
+      in touch soon.
     title_align: left
     content: >-
       ## Lorem ipsum
