@@ -175,7 +175,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    subtitle: ' Have a question? Send us a note using the form and we will be in touch soon.'
 seo:
   title: Mestara
   description: Women empowerment program and mentorship program
