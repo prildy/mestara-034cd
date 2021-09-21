@@ -157,6 +157,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Mentorship
+          - lorem-ipsum
         is_required: true
       - input_type: text
         name: Message
