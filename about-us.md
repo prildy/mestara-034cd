@@ -148,7 +148,8 @@ sections:
         name: lorem-ipsum
         label: Email
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
     submit_label: Submit
     align_vert: top
