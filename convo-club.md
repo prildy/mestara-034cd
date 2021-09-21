@@ -44,7 +44,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        subtitle: 'Next Class : '
+        subtitle: 'Next Class : Sep 4th - Oct'
     feature_padding_vert: medium
     align: center
     padding_top: medium
