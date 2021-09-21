@@ -148,7 +148,7 @@ sections:
     type: grid_section
   - title: Package
     actions:
-      - label: Register Here
+      - label: Register Now
         url: '#'
         style: link
         has_icon: false
