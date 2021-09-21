@@ -72,6 +72,34 @@ sections:
         media_position: center
         media_width: fifty
     title: How We Do It
+  - title: Mentees Testimonials
+    actions: []
+    grid_items:
+      - title_align: left
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     title: Agenda
     subtitle: 'Next period: July 10th - August 7th 2021'
@@ -216,34 +244,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: Mentees Testimonials
-    actions: []
-    grid_items:
-      - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Mestara Mentorship
   description: >-
