@@ -162,7 +162,6 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: lorem-ipsum
         options: []
         is_required: true
     submit_label: Submit
