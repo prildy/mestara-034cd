@@ -85,7 +85,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: '#'
+            url: /one-on-ones
             style: secondary
             has_icon: false
             icon: arrow-left
