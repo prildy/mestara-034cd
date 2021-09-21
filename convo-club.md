@@ -39,8 +39,6 @@ sections:
         media_width: fifty
         align: left
       - title: Only 200K per person
-        content: |
-          *
         actions: []
         image_alt: lorem-ipsum
         media_position: top
