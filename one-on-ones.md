@@ -31,8 +31,7 @@ sections:
     image: images/Mestara 101 Paid.png
   - title: Why Mestara One-on-Ones?
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
