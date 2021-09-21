@@ -164,17 +164,8 @@ sections:
         subtitle: 1 session x 60 mins
       - subtitle: 2 session x 60 mins
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          # **IDR 150K**
         content_align: left
         actions: []
         actions_align: left
