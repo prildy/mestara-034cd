@@ -132,7 +132,7 @@ sections:
     title_align: center
     content_align: left
     form_position: right
-    form_width: fourty
+    form_width: fifty
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
