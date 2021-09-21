@@ -175,6 +175,9 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     content: >
+      ## Get in touch
+
+
       Have a question? Send us a note using the form and we will be in touch
       soon.
 seo:
