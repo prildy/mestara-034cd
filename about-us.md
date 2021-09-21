@@ -157,7 +157,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Mentorship
-          - lorem-ipsum
+          - English Convo Club
         is_required: true
       - input_type: text
         name: Message
