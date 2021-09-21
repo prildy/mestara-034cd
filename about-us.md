@@ -156,7 +156,7 @@ sections:
         label: Subject
         default_value: lorem-ipsum
         options:
-          - lorem-ipsum
+          - Mentorship
         is_required: true
       - input_type: text
         name: Message
