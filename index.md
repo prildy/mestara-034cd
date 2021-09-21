@@ -109,7 +109,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: '#'
+            url: /webinar
             style: secondary
             has_icon: false
             icon: arrow-left
