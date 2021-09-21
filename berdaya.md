@@ -5,6 +5,7 @@ sections:
     title: Mestara Berdaya
     subtitle: Women empowerment program
     background_color: primary
+    image: images/6 Mestara berdaya.png
   - type: features_section
     features:
       - title: Women empower women
