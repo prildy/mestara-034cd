@@ -39,7 +39,6 @@ sections:
         media_width: fifty
         align: left
       - title: Only 200K per person
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
