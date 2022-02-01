@@ -8,7 +8,7 @@ sections:
       professional setting. A great place to practice English conversation skill
       and be more fluent!
     actions:
-      - label: Join Nowa
+      - label: Join Now
         url: '#'
         style: primary
         has_icon: false
